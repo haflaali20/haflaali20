@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="github-banner.png" alt="GitHub Banner" width="100%">
+</p>
+
 # Hi there! 👋
 
 I'm **Haflatul Huda Ali**, a Chemistry graduate with interests in Laboratory Analysis, Quality Assurance/Quality Control (QA/QC), Sustainability Analytics, and Data Analytics.
